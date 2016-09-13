@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"s",
+				"sep	instance"
+			],
+			[
+				"de",
+				"decode"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"m",
+				"mktime	function"
+			],
+			[
+				"r",
+				"reverse	function"
+			],
+			[
+				"list",
+				"list1	statement"
+			],
+			[
+				"raw",
+				"raw_input('Enter"
+			],
+			[
+				"el",
+				"elif	keyword"
+			],
+			[
+				"t",
+				"trigger〔function〕"
+			],
+			[
+				"fa",
+				"fadeOut〔function〕"
+			],
+			[
+				"jquery2",
+				"jquery-2.1.4.js"
+			],
+			[
+				"sc",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"c",
+				"click〔function〕"
+			],
+			[
+				"top",
+				"topup〔variable〕"
+			],
+			[
+				"a",
+				"auto〔value〕"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"log",
+				"console.log()"
+			],
+			[
+				"scro",
+				"scrollTop〔function〕"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"wi",
+				"window	Window"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"no",
+				"no-repeat〔value〕"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Package Control: ip",
+		"selected_items":
+		[
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 331.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/pythonproj/blog.html",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/E/pythonproj/demo.py",
+		"/E/pythonproj/hello.py",
+		"/D/chromeDownload/节日祝福/index.html",
+		"/D/chromeDownload/节日祝福/93me/index.htm",
+		"/D/chromeDownload/节日祝福/93me/clock.js",
+		"/D/chromeDownload/节日祝福/93me/functions.js",
+		"/D/chromeDownload/节日祝福/93me/garden.js",
+		"/D/chromeDownload/节日祝福/93me/jquery.js",
+		"/D/chromeDownload/2015biaobaiDIY/2015年情人节表白祝福DIY网页/93me/functions.js",
+		"/D/chromeDownload/2015biaobaiDIY/2015年情人节表白祝福DIY网页/93me/garden.js",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Pythonutf8.sublime-build",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build.sublime-build",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/Anaconda/LICENSE",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/E/web/html/subtest.html",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/E/rsa306数据/SAVED-2016.07.04.10.11.37.722.r3a",
+		"/C/Users/cj/Desktop/工程备份/radio/WebRoot/js/commom.js",
+		"/C/Users/cj/Desktop/工程备份/radio/WebRoot/js/ajax.js",
+		"/D/nodejs/node_global/app.js",
+		"/C/Users/cj/Desktop/singalvu/binfile/44030000_0005_20160629_173516_30Mhz_3000Mhz_25kHz_H_M.bin",
+		"/C/Users/cj/Desktop/singalvu/binfile/44030000_0005_20160629_172420_30Mhz_3000Mhz_25kHz_H_M.bin",
+		"/C/Users/cj/Desktop/singalvu/result1.bin",
+		"/D/chromeDownload/53a94f38000148ad00000000/慕课网 - JavaScript 回到顶部/demo.html",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/web/js/fibonacci.js",
+		"/E/web/html/fibonacci.js",
+		"/C/Users/cj/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"target"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 54.0
+	},
+	"pinned_build_system": "Packages/User/Pythonutf8.sublime-build",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
